@@ -1,5 +1,5 @@
 # =============================================================================
-# PROJECT 2: A/B Test Design and Statistical Analysis
+# A/B Test Design and Statistical Analysis
 # =============================================================================
 # What this project does:
 #   - Demonstrates the full lifecycle of a real A/B experiment:
