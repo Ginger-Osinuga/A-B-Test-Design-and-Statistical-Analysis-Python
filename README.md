@@ -1,4 +1,5 @@
 🧪 A/B Test Design & Statistical Analysis (Python)
+---
 🎯Project Overview
 ---
 A Python project demonstrating the complete lifecycle of a product A/B experiment — from writing the hypothesis and calculating required sample size through running the test, analyzing results with statistical significance testing, and producing a go/no-go business readout. The experiment tests a redesigned onboarding flow (Variant B) against the current flow (Control A) to determine whether the change meaningfully improves the 7-day activation rate.
